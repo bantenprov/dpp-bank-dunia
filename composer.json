@@ -1,6 +1,6 @@
 {
     "name": "bantenprov/dpp-bank-dunia",
-    "description": "Laju inflasi menurut kota / kabupaten",
+    "description": "Distribusi Pembagian Pengeluaran per Kapita Versi Bank Dunia dan Indeks Gini",
     "authors": [
         {
             "name": "bantenprov",
