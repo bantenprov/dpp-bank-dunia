@@ -1,7 +1,7 @@
 <template>
   <div class="card">
     <div class="card-header">
-      <i class="fa fa-table" aria-hidden="true"></i> Add Laju Inflasi Kota
+      <i class="fa fa-table" aria-hidden="true"></i> Add DPP Bank Dunia
 
       <ul class="nav nav-pills card-header-pills pull-right">
         <li class="nav-item">

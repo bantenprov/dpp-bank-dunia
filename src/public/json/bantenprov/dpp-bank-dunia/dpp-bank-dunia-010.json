@@ -5,7 +5,7 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2011",
-      "title": "Laju Inflasi Kota Kabupaten Pandeglang",
+      "title": "DPP Bank Dunia Kabupaten Pandeglang",
       "data": [
         "2010",
         "2011",
@@ -32,7 +32,7 @@
     "xAxis": {
       "type": "category",
       "region": "Negara",
-      "title": "Laju Inflasi Kota Kabupaten Lebak",
+      "title": "DPP Bank Dunia Kabupaten Lebak",
       "yyyy": "2011",
       "data": [
         "2010",
@@ -60,7 +60,7 @@
     "xAxis": {
       "type": "category",
       "region": "Negara",
-      "title": "Laju Inflasi Kota Kabupaten Tangerang",
+      "title": "DPP Bank Dunia Kabupaten Tangerang",
       "yyyy": "2011",
       "data": [
         "2010",
@@ -88,7 +88,7 @@
     "xAxis": {
       "type": "category",
       "region": "Negara",
-      "title": "Laju Inflasi Kota Kabupaten Serang",
+      "title": "DPP Bank Dunia Kabupaten Serang",
       "yyyy": "2011",
       "data": [
         "2010",
@@ -116,7 +116,7 @@
     "xAxis": {
       "type": "category",
       "region": "Negara",
-      "title": "Laju Inflasi Kota Kota Tangerang",
+      "title": "DPP Bank Dunia Kota Tangerang",
       "yyyy": "2011",
       "data": [
         "2010",
@@ -144,7 +144,7 @@
     "xAxis": {
       "type": "category",
       "region": "Negara",
-      "title": "Laju Inflasi Kota Kota Cilegon",
+      "title": "DPP Bank Dunia Kota Cilegon",
       "yyyy": "2011",
       "data": [
         "2010",
@@ -172,7 +172,7 @@
     "xAxis": {
       "type": "category",
       "region": "Negara",
-      "title": "Laju Inflasi Kota Kota Serang",
+      "title": "DPP Bank Dunia Kota Serang",
       "yyyy": "2011",
       "data": [
         "2010",
@@ -200,7 +200,7 @@
     "xAxis": {
       "type": "category",
       "region": "Negara",
-      "title": "Laju Inflasi Kota Kota Tangerang Selatan",
+      "title": "DPP Bank Dunia Kota Tangerang Selatan",
       "yyyy": "2011",
       "data": [
         "2010",
