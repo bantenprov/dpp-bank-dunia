@@ -4,20 +4,29 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "DPP Bank Dunia 2010 Provinsi Banten",
+      "title": "40% Penduduk Berpengeluaran Rendah Provinsi Banten",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.33,"name":"Kabupaten Pandeglang"},
-          {"value":5.34,"name":"Kabupaten Lebak"},
-          {"value":7.85,"name":"Kabupaten Tangerang"},
-          {"value":6.07,"name":"Kabupaten Serang"},
-          {"value":9.64,"name":"Kota Tangerang"},
-          {"value":8.71,"name":"Kota Cilegon"},
-          {"value":8.23,"name":"Kota Serang"},
-          {"value":10.86,"name":"Kota Tangerang Selatan"}
+          {"value":20.08,"name":"Februari/2003"},
+          {"value":18.79,"name":"Februari/2005"},
+          {"value":18.66,"name":"Maret/2007"},
+          {"value":19.54,"name":"Maret/2008"},
+          {"value":20.67,"name":"Maret/2009"},
+          {"value":17.80,"name":"Maret/2010"},
+          {"value":17.19,"name":"Maret/2011"},
+          {"value":17.05,"name":"September/2011"},
+          {"value":17.72,"name":"Maret/2012"},
+          {"value":17.91,"name":"September/2012"},
+          {"value":17.07,"name":"Maret/2013"},
+          {"value":17.92,"name":"September/2013"},
+          {"value":17.55,"name":"Maret/2014"},
+          {"value":16.06,"name":"September/2014"},
+          {"value":17.34,"name":"Maret/2015"},
+          {"value":18.41,"name":"September/2015"},
+          {"value":17.55,"name":"Maret/2016"}
         ]
       }
     ]
@@ -27,20 +36,29 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "DPP Bank Dunia 2011 Provinsi Banten",
+      "title": "40% Penduduk Berpengeluaran Rendah Negara Indonesia",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.38,"name":"Kabupaten Pandeglang"},
-          {"value":5.58,"name":"Kabupaten Lebak"},
-          {"value":7.96,"name":"Kabupaten Tangerang"},
-          {"value":6.31,"name":"Kabupaten Serang"},
-          {"value":9.75,"name":"Kota Tangerang"},
-          {"value":8.93,"name":"Kota Cilegon"},
-          {"value":8.39,"name":"Kota Serang"},
-          {"value":10.87,"name":"Kota Tangerang Selatan"}
+          {"value":20.92,"name":"Februari/2003"},
+          {"value":18.82,"name":"Februari/2005"},
+          {"value":19.10,"name":"Maret/2007"},
+          {"value":19.56,"name":"Maret/2008"},
+          {"value":21.22,"name":"Maret/2009"},
+          {"value":19.41,"name":"Maret/2010"},
+          {"value":16.85,"name":"Maret/2011"},
+          {"value":17.67,"name":"September/2011"},
+          {"value":16.98,"name":"Maret/2012"},
+          {"value":16.88,"name":"September/2012"},
+          {"value":16.87,"name":"Maret/2013"},
+          {"value":17.25,"name":"September/2013"},
+          {"value":17.12,"name":"Maret/2014"},
+          {"value":16.48,"name":"September/2014"},
+          {"value":17.10,"name":"Maret/2015"},
+          {"value":17.45,"name":"September/2015"},
+          {"value":17.02,"name":"Maret/2016"}
         ]
       }
     ]
@@ -50,20 +68,29 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "DPP Bank Dunia 2012 Provinsi Banten",
+      "title": "40% Penduduk Berpengeluaran Menengah Provinsi Banten",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.43,"name":"Kabupaten Pandeglang"},
-          {"value":5.70,"name":"Kabupaten Lebak"},
-          {"value":8.07,"name":"Kabupaten Tangerang"},
-          {"value":6.57,"name":"Kabupaten Serang"},
-          {"value":9.76,"name":"Kota Tangerang"},
-          {"value":9.29,"name":"Kota Cilegon"},
-          {"value":8.48,"name":"Kota Serang"},
-          {"value":11.09,"name":"Kota Tangerang Selatan"}
+          {"value":38.31,"name":"Februari/2003"},
+          {"value":36.36,"name":"Februari/2005"},
+          {"value":36.44,"name":"Maret/2007"},
+          {"value":37.83,"name":"Maret/2008"},
+          {"value":36.91,"name":"Maret/2009"},
+          {"value":34.85,"name":"Maret/2010"},
+          {"value":34.93,"name":"Maret/2011"},
+          {"value":36.46,"name":"September/2011"},
+          {"value":35.84,"name":"Maret/2012"},
+          {"value":36.31,"name":"September/2012"},
+          {"value":35.11,"name":"Maret/2013"},
+          {"value":36.12,"name":"September/2013"},
+          {"value":35.07,"name":"Maret/2014"},
+          {"value":34.08,"name":"September/2014"},
+          {"value":34.85,"name":"Maret/2015"},
+          {"value":34.63,"name":"September/2015"},
+          {"value":35.34,"name":"Maret/2016"}
         ]
       }
     ]
@@ -73,20 +100,29 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "DPP Bank Dunia 2013 Provinsi Banten",
+      "title": "40% Penduduk Berpengeluaran Menengah Negara Indonesia",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.44,"name":"Kabupaten Pandeglang"},
-          {"value":5.81,"name":"Kabupaten Lebak"},
-          {"value":8.18,"name":"Kabupaten Tangerang"},
-          {"value":6.65,"name":"Kabupaten Serang"},
-          {"value":9.82,"name":"Kota Tangerang"},
-          {"value":9.60,"name":"Kota Cilegon"},
-          {"value":8.56,"name":"Kota Serang"},
-          {"value":11.48,"name":"Kota Tangerang Selatan"}
+          {"value":36.89,"name":"Februari/2003"},
+          {"value":36.40,"name":"Februari/2005"},
+          {"value":36.11,"name":"Maret/2007"},
+          {"value":35.67,"name":"Maret/2008"},
+          {"value":37.54,"name":"Maret/2009"},
+          {"value":37.54,"name":"Maret/2010"},
+          {"value":34.73,"name":"Maret/2011"},
+          {"value":35.89,"name":"September/2011"},
+          {"value":34.41,"name":"Maret/2012"},
+          {"value":34.18,"name":"September/2012"},
+          {"value":34.09,"name":"Maret/2013"},
+          {"value":34.25,"name":"September/2013"},
+          {"value":34.60,"name":"Maret/2014"},
+          {"value":34.83,"name":"September/2014"},
+          {"value":34.65,"name":"Maret/2015"},
+          {"value":34.70,"name":"September/2015"},
+          {"value":36.90,"name":"Maret/2016"}
         ]
       }
     ]
@@ -96,20 +132,29 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "DPP Bank Dunia 2014 Provinsi Banten",
+      "title": "20% Penduduk Berpengeluaran Tinggi Provinsi Banten",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.45,"name":"Kabupaten Pandeglang"},
-          {"value":5.84,"name":"Kabupaten Lebak"},
-          {"value":8.20,"name":"Kabupaten Tangerang"},
-          {"value":6.69,"name":"Kabupaten Serang"},
-          {"value":10.20,"name":"Kota Tangerang"},
-          {"value":9.66,"name":"Kota Cilegon"},
-          {"value":8.85,"name":"Kota Serang"},
-          {"value":11.56,"name":"Kota Tangerang Selatan"}
+          {"value":41.61,"name":"Februari/2003"},
+          {"value":44.85,"name":"Februari/2005"},
+          {"value":44.90,"name":"Maret/2007"},
+          {"value":42.63,"name":"Maret/2008"},
+          {"value":42.42,"name":"Maret/2009"},
+          {"value":47.35,"name":"Maret/2010"},
+          {"value":47.88,"name":"Maret/2011"},
+          {"value":46.49,"name":"September/2011"},
+          {"value":46.45,"name":"Maret/2012"},
+          {"value":45.78,"name":"September/2012"},
+          {"value":47.82,"name":"Maret/2013"},
+          {"value":45.96,"name":"September/2013"},
+          {"value":47.38,"name":"Maret/2014"},
+          {"value":49.86,"name":"September/2014"},
+          {"value":47.81,"name":"Maret/2015"},
+          {"value":46.95,"name":"September/2015"},
+          {"value":47.11,"name":"Maret/2016"}
         ]
       }
     ]
@@ -119,20 +164,93 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "DPP Bank Dunia 2015 Provinsi Banten",
+      "title": "20% Penduduk Berpengeluaran Tinggi Negara Indonesia",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.60,"name":"Kabupaten Pandeglang"},
-          {"value":5.86,"name":"Kabupaten Lebak"},
-          {"value":8.22,"name":"Kabupaten Tangerang"},
-          {"value":6.90,"name":"Kabupaten Serang"},
-          {"value":10.20,"name":"Kota Tangerang"},
-          {"value":9.67,"name":"Kota Cilegon"},
-          {"value":8.59,"name":"Kota Serang"},
-          {"value":11.57,"name":"Kota Tangerang Selatan"}
+          {"value":42.19,"name":"Februari/2003"},
+          {"value":44.78,"name":"Februari/2005"},
+          {"value":44.79,"name":"Maret/2007"},
+          {"value":44.77,"name":"Maret/2008"},
+          {"value":41.24,"name":"Maret/2009"},
+          {"value":43.14,"name":"Maret/2010"},
+          {"value":48.42,"name":"Maret/2011"},
+          {"value":46.45,"name":"September/2011"},
+          {"value":48.61,"name":"Maret/2012"},
+          {"value":48.94,"name":"September/2012"},
+          {"value":49.04,"name":"Maret/2013"},
+          {"value":48.50,"name":"September/2013"},
+          {"value":48.27,"name":"Maret/2014"},
+          {"value":48.69,"name":"September/2014"},
+          {"value":48.25,"name":"Maret/2015"},
+          {"value":47.84,"name":"September/2015"},
+          {"value":46.89,"name":"Maret/2016"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Indeks Gini Provinsi Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":0.330,"name":"Februari/2003"},
+          {"value":0.356,"name":"Februari/2005"},
+          {"value":0.365,"name":"Maret/2007"},
+          {"value":0.340,"name":"Maret/2008"},
+          {"value":0.370,"name":"Maret/2009"},
+          {"value":0.420,"name":"Maret/2010"},
+          {"value":0.400,"name":"Maret/2011"},
+          {"value":0.390,"name":"September/2011"},
+          {"value":0.390,"name":"Maret/2012"},
+          {"value":0.380,"name":"September/2012"},
+          {"value":0.400,"name":"Maret/2013"},
+          {"value":0.390,"name":"September/2013"},
+          {"value":0.390,"name":"Maret/2014"},
+          {"value":0.420,"name":"September/2014"},
+          {"value":0.401,"name":"Maret/2015"},
+          {"value":0.386,"name":"September/2015"},
+          {"value":0.394,"name":"Maret/2016"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Indeks Gini Negara Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":0.329,"name":"Februari/2003"},
+          {"value":0.363,"name":"Februari/2005"},
+          {"value":0.364,"name":"Maret/2007"},
+          {"value":0.350,"name":"Maret/2008"},
+          {"value":0.370,"name":"Maret/2009"},
+          {"value":0.378,"name":"Maret/2010"},
+          {"value":0.410,"name":"Maret/2011"},
+          {"value":0.388,"name":"September/2011"},
+          {"value":0.410,"name":"Maret/2012"},
+          {"value":0.413,"name":"September/2012"},
+          {"value":0.413,"name":"Maret/2013"},
+          {"value":0.406,"name":"September/2013"},
+          {"value":0.406,"name":"Maret/2014"},
+          {"value":0.414,"name":"September/2014"},
+          {"value":0.408,"name":"Maret/2015"},
+          {"value":0.402,"name":"September/2015"},
+          {"value":0.397,"name":"Maret/2016"}
         ]
       }
     ]

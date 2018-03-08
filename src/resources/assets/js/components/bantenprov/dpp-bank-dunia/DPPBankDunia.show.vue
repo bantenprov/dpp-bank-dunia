@@ -2,7 +2,7 @@
   <div>
 
     <div class="card mb-3">
-      <div class="card-header">Grafik Produk Domestik Regional Bruto</div>
+      <div class="card-header">Grafik DPP Bank Dunia</div>
       <div class="card-body">
         <echarts-dpp-bank-dunia></echarts-dpp-bank-dunia>
       </div><!-- /.card-body -->

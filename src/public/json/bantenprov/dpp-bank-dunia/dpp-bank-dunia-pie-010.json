@@ -4,20 +4,15 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "DPP Bank Dunia 2010",
+      "title": "DPP Bank Dunia Februari/2003 Banten",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.33,"name":"Kabupaten Pandeglang"},
-          {"value":5.34,"name":"Kabupaten Lebak"},
-          {"value":7.85,"name":"Kabupaten Tangerang"},
-          {"value":6.07,"name":"Kabupaten Serang"},
-          {"value":9.64,"name":"Kota Tangerang"},
-          {"value":8.71,"name":"Kota Cilegon"},
-          {"value":8.23,"name":"Kota Serang"},
-          {"value":10.86,"name":"Kota Tangerang Selatan"}
+          {"value":20.08,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":38.31,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":41.61,"name":"20% Penduduk Berpengeluaran Tinggi"}
         ]
       }
     ]
@@ -27,20 +22,15 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "DPP Bank Dunia 2011",
+      "title": "DPP Bank Dunia Februari/2003 Indonesia",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.38,"name":"Kabupaten Pandeglang"},
-          {"value":5.58,"name":"Kabupaten Lebak"},
-          {"value":7.96,"name":"Kabupaten Tangerang"},
-          {"value":6.31,"name":"Kabupaten Serang"},
-          {"value":9.75,"name":"Kota Tangerang"},
-          {"value":8.93,"name":"Kota Cilegon"},
-          {"value":8.39,"name":"Kota Serang"},
-          {"value":10.87,"name":"Kota Tangerang Selatan"}
+          {"value":20.92,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":36.89,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":41.19,"name":"20% Penduduk Berpengeluaran Tinggi"}
         ]
       }
     ]
@@ -50,20 +40,15 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "DPP Bank Dunia 2012",
+      "title": "DPP Bank Dunia Februari/2005 Banten",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.43,"name":"Kabupaten Pandeglang"},
-          {"value":5.70,"name":"Kabupaten Lebak"},
-          {"value":8.07,"name":"Kabupaten Tangerang"},
-          {"value":6.57,"name":"Kabupaten Serang"},
-          {"value":9.76,"name":"Kota Tangerang"},
-          {"value":9.29,"name":"Kota Cilegon"},
-          {"value":8.48,"name":"Kota Serang"},
-          {"value":11.09,"name":"Kota Tangerang Selatan"}
+          {"value":18.79,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":36.36,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":44.85,"name":"20% Penduduk Berpengeluaran Tinggi"}
         ]
       }
     ]
@@ -73,20 +58,15 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "DPP Bank Dunia 2013",
+      "title": "DPP Bank Dunia Februari/2005 Indonesia",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.44,"name":"Kabupaten Pandeglang"},
-          {"value":5.81,"name":"Kabupaten Lebak"},
-          {"value":8.18,"name":"Kabupaten Tangerang"},
-          {"value":6.65,"name":"Kabupaten Serang"},
-          {"value":9.82,"name":"Kota Tangerang"},
-          {"value":9.60,"name":"Kota Cilegon"},
-          {"value":8.56,"name":"Kota Serang"},
-          {"value":11.48,"name":"Kota Tangerang Selatan"}
+          {"value":18.82,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":36.40,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":44.78,"name":"20% Penduduk Berpengeluaran Tinggi"}
         ]
       }
     ]
@@ -96,20 +76,15 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "DPP Bank Dunia 2014",
+      "title": "DPP Bank Dunia Maret/2007 Banten",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.45,"name":"Kabupaten Pandeglang"},
-          {"value":5.84,"name":"Kabupaten Lebak"},
-          {"value":8.20,"name":"Kabupaten Tangerang"},
-          {"value":6.69,"name":"Kabupaten Serang"},
-          {"value":10.20,"name":"Kota Tangerang"},
-          {"value":9.66,"name":"Kota Cilegon"},
-          {"value":8.85,"name":"Kota Serang"},
-          {"value":11.56,"name":"Kota Tangerang Selatan"}
+          {"value":18.66,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":36.44,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":44.90,"name":"20% Penduduk Berpengeluaran Tinggi"}
         ]
       }
     ]
@@ -119,20 +94,555 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "DPP Bank Dunia 2015",
+      "title": "DPP Bank Dunia Maret/2007 Indonesia",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.60,"name":"Kabupaten Pandeglang"},
-          {"value":5.86,"name":"Kabupaten Lebak"},
-          {"value":8.22,"name":"Kabupaten Tangerang"},
-          {"value":6.90,"name":"Kabupaten Serang"},
-          {"value":10.20,"name":"Kota Tangerang"},
-          {"value":9.67,"name":"Kota Cilegon"},
-          {"value":8.59,"name":"Kota Serang"},
-          {"value":11.57,"name":"Kota Tangerang Selatan"}
+          {"value":19.10,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":36.11,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":44.79,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2008 Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":19.54,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":37.83,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":42.62,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2008 Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":19.56,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":35.67,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":44.77,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2009 Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":20.67,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":36.91,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":42.42, "name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2009 Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":21.22,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":37.54,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":41.24,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2010 Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.67,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":34.85,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":47.88,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2010 Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":19.41,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":37.54,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":41.24,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2011 Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.19,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":34.93,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":47.88,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2011 Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":16.85,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":34.73,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":48.42,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia September/2011 Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.05,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":36.46,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":46.49,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia September/2011 Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.67,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":35.89,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":46.45,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2012 Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.72,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":35.84,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":46.45,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2012 Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":16.98,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":34.18,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":48.61,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia September/2012 Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.91,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":36.31,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":45.78,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia September/2012 Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":16.88,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":34.18,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":48.94,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2013 Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.07,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":35.11,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":47.82,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2013 Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":16.87,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":34.09,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":49.04,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia September/2013 Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.92,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":36.12,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":45.95,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia September/2013 Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.25,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":34.25,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":48.50,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia September/2013 Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.92,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":36.12,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":45.95,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia September/2013 Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.25,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":34.25,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":48.50,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2014 Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.55,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":35.07,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":47.38,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2014 Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.12,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":34.60,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":48.27,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia September/2014 Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":16.06,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":34.08,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":49.95,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia September/2014 Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":16.48,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":34.83,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":48.69,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2015 Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.34,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":34.85,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":47.81,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2015 Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.10,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":34.65,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":48.25,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia September/2015 Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":18.41,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":34.63,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":46.95,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia September/2015 Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.45,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":34.70,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":47.84,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2016 Banten",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.55,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":35.34,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":47.11,"name":"20% Penduduk Berpengeluaran Tinggi"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "DPP Bank Dunia Maret/2016 Indonesia",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":17.02,"name":"40% Penduduk Berpengeluaran Rendah"},
+          {"value":36.09,"name":"40% Penduduk Berpengeluaran Menengah"},
+          {"value":46.89,"name":"20% Penduduk Berpengeluaran Tinggi"}
         ]
       }
     ]
