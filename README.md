@@ -191,10 +191,10 @@ import DPPBankDunia from './components/bantenprov/dpp-bank-dunia/DPPBankDunia.ch
 Vue.component('echarts-dpp-bank-dunia', DPPBankDunia);
 
 import DPPBankDuniaKota from './components/bantenprov/dpp-bank-dunia/DPPBankDuniaKota.chart.vue';
-Vue.component('echarts-dpp-bank-dinia-kota', DPPBankDuniaKota);
+Vue.component('echarts-dpp-bank-dunia-kota', DPPBankDuniaKota);
 
 import DPPBankDuniaTahun from './components/bantenprov/dpp-bank-dunia/DPPBankDuniaTahun.chart.vue';
-Vue.component('echarts-dpp-bank-dinia-tahun', DPPBankDuniaTahun);
+Vue.component('echarts-dpp-bank-dunia-tahun', DPPBankDuniaTahun);
 
 import DPPBankDuniaAdminShow from './components/bantenprov/dpp-bank-dunia/DPPBankDuniaAdmin.show.vue';
 Vue.component('admin-view-dpp-bank-dunia-tahun', DPPBankDuniaAdminShow);
