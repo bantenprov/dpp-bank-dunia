@@ -1,7 +1,7 @@
 <template>
   <div class="card">
     <div class="card-header">
-      <i class="fa fa-table" aria-hidden="true"></i> Edit DPP Bank Dunia
+      <i class="fa fa-table" aria-hidden="true"></i> EDistribusi Pembagian Pengeluaran per kapita Bank Dunia
 
       <ul class="nav nav-pills card-header-pills pull-right">
         <li class="nav-item">

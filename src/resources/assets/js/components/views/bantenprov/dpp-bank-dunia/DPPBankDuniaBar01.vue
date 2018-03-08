@@ -121,8 +121,8 @@ export default {
         series: [{
           type: 'bar',
           data: [],
-          barWidth: 30,
-          barGap: '30%',
+          barWidth: 20,
+          barGap: '20%',
           cursor: 'default',
           itemStyle: {
             color: '#FFEB3B'

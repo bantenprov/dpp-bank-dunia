@@ -5,25 +5,17 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2011",
-      "title": "DPP Bank Dunia Provinsi Banten",
+      "title": "DPP Bank Dunia Indeks Gini Februari/2003",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Provinsi Banten",
+        "Negara Indonesia"
       ]
     },
     "series": [
       {
         "data": [
-          7.92,
-          7.95,
-          8.06,
-          8.17,
-          8.19,
-          8.27
+          0.330,
+          0.329
         ]
       }
     ]
@@ -31,27 +23,335 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "DPP Bank Dunia Negara Indonesia",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini Februari/2005",
       "data": [
-        "2010",
-        "2011",
-        "2012",
-        "2013",
-        "2014",
-        "2015"
+        "Provinsi Banten",
+        "Negara Indonesia"
       ]
     },
     "series": [
       {
         "data": [
-          7.46,
-          7.52,
-          7.59,
-          7.61,
-          7.73,
-          7.84
+          0.356,
+          0.363
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini Maret/2007",
+      "data": [
+        "Provinsi Banten",
+        "Negara Indonesia"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.365,
+          0.364
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini Maret/2008",
+      "data": [
+        "Provinsi Banten",
+        "Negara Indonesia"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.340,
+          0.350
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini Maret/2009",
+      "data": [
+        "Provinsi Banten",
+        "Negara Indonesia"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.370,
+          0.370
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini Maret/2010",
+      "data": [
+        "Provinsi Banten",
+        "Negara Indonesia"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.420,
+          0.370
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini Maret/2011",
+      "data": [
+        "Provinsi Banten",
+        "Negara Indonesia"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.400,
+          0.410
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini September/2011",
+      "data": [
+        "Provinsi Banten",
+        "Negara Indonesia"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.390,
+          0.388
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini Maret/2012",
+      "data": [
+        "Provinsi Banten",
+        "Negara Indonesia"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.390,
+          0.410
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini September/2012",
+      "data": [
+        "Provinsi Banten",
+        "Negara Indonesia"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.380,
+          0.413
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini Maret/2013",
+      "data": [
+        "Provinsi Banten",
+        "Negara Indonesia"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.400,
+          0.413
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini September/2013",
+      "data": [
+        "Provinsi Banten",
+        "Negara Indonesia"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.390,
+          0.406
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini Maret/2014",
+      "data": [
+        "Provinsi Banten",
+        "Negara Indonesia"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.390,
+          0.406
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini September/2014",
+      "data": [
+        "Provinsi Banten",
+        "Negara Indonesia"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.420,
+          0.414
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini Maret/2015",
+      "data": [
+        "Provinsi Banten",
+        "Negara Indonesia"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.401,
+          0.408
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini September/2015",
+      "data": [
+        "Provinsi Banten",
+        "Negara Indonesia"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.386,
+          0.402
+        ]
+      }
+    ]
+  },
+   {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "DPP Bank Dunia Indeks Gini Maret/2016",
+      "data": [
+        "Provinsi Banten",
+        "Negara Indonesia"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          0.394,
+          0.397
         ]
       }
     ]
