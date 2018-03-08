@@ -11,10 +11,6 @@ $ composer require bantenprov/dpp-bank-dunia:dev-master
 
 - Latest release:
 
-```bash
-$ composer require bantenprov/dpp-bank-dunia
-```
-
 ### Download via github
 
 ```bash
