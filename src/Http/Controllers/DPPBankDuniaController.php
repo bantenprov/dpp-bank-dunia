@@ -5,7 +5,7 @@ namespace Bantenprov\DPPBankDunia\Http\Controllers;
 /* Require */
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use Bantenprov\BudgetAbsorption\Facades\DPPBankDuniaFacade;
+use Bantenprov\DPPBankDunia\Facades\DPPBankDuniaFacade;
 
 /* Models */
 use Bantenprov\DPPBankDunia\Models\Bantenprov\DPPBankDunia\DPPBankDunia;
